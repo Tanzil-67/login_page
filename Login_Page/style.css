@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background:linear-gradient(135deg, #4848e2be, #90f4d398);
+    background:linear-gradient(217deg, #4848e2be, #90f4d398);
     justify-content: center;
     align-items: center;
     display: flex;
@@ -59,4 +59,5 @@ form button:hover {
 
 .signup-text a:hover {
     text-decoration: underline;
+
 }
